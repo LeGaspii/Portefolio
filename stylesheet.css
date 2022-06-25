@@ -150,6 +150,10 @@ nav {
   background: var(--main-blue);
 }
 
+.grey {
+  filter: grayscale(1);
+}
+
 /* Welcome section */
 
 #projects {
