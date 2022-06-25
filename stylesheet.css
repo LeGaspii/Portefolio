@@ -152,6 +152,10 @@ nav {
 
 /* Welcome section */
 
+#projects {
+  margin-top: 50px;
+}
+
 #welcome-section {
   display: flex;
   flex-direction: column;
